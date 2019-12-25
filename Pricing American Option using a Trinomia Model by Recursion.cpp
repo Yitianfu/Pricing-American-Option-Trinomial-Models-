@@ -8,10 +8,7 @@
 //
 //  main.cpp
 //  Assignment9
-//
-//  Created by Yitian Fu on 11/12/17.
-//  Copyright © 2017 Yitian Fu. All rights reserved.
-//
+
 
 #include <iostream>
 #include <iomanip>
